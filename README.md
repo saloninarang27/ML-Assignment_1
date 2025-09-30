@@ -1,5 +1,4 @@
 # ML-Assignment_1
-# Complete Machine Learning Assignment Series - MT25081
 
 ## Assignment Overview
 This repository contains my complete submission for the comprehensive Machine Learning assignment series covering data processing, algorithm implementation, model development, evaluation, and advanced ML techniques using the Crema-D emotion recognition dataset.
